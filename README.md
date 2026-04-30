@@ -78,7 +78,7 @@ This repository demonstrates the implementation and analysis of key machine lear
 
 ---
 
-### 8. 📉 Model Evaluation Metrics
+### 8. Model Evaluation Metrics
 - Confusion Matrix
 - Precision
 - Recall
@@ -123,6 +123,7 @@ This repository demonstrates the implementation and analysis of key machine lear
 
 ## Author 
 Vinayak Sharma 
+
 GitHub
 https://github.com/vsbeginner
 
